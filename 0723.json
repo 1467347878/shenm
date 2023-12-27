@@ -1,17 +1,17 @@
 ﻿
 {
-"spider":"clan://TVBox/0723.jar",
+"spider":"https://github.com/1467347878/shenm/blob/main/0723.jar",
 
 
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L2xpdmUudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tLzE0NjczNDc4Nzgvc2hlbm0vYmxvYi9tYWluL2xpdmUudHh0"]}]}],
 
 
 "sites":[
 
-{"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
+
+{"key":"ttzy", "name":"👰神马资源(SP)", "type":1,"api":"http://shenmaysk/api.php/provide/vod/","searchable":1, "quickSearch":1}
 
 ],
 
@@ -84,75 +84,75 @@
 			"category": 4,
 			"name": "mediacodec-hevc",
 			"value": "0"
-		}, {
-			"category": 1,
-			"name": "dns_cache_timeout",
-			"value": "600000000"
-		}]
-	}, {
-		"group": "硬解码",
-		"options": [{
-			"category": 4,
-			"name": "opensles",
-			"value": "0"
-		}, {
-			"category": 4,
-			"name": "overlay-format",
-			"value": "842225234"
-		}, {
-			"category": 4,
-			"name": "framedrop",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "soundtouch",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "start-on-prepared",
-			"value": "1"
-		}, {
-			"category": 1,
-			"name": "http-detect-range-support",
-			"value": "0"
-		}, {
-			"category": 1,
-			"name": "fflags",
-			"value": "fastseek"
-		}, {
-			"category": 2,
-			"name": "skip_loop_filter",
-			"value": "48"
-		}, {
-			"category": 4,
-			"name": "reconnect",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "enable-accurate-seek",
-			"value": "0"
-		}, {
-			"category": 4,
-			"name": "mediacodec",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "mediacodec-auto-rotate",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "mediacodec-handle-resolution-change",
-			"value": "1"
-		}, {
-			"category": 4,
-			"name": "mediacodec-hevc",
-			"value": "1"
-		}, {
-			"category": 1,
-			"name": "dns_cache_timeout",
-			"value": "600000000"
-		}]
-	}],
+},{
+"category":1,
+"name":"dns_cache_timeout",
+"value":"600000000"
+}]
+},{
+"group":"硬解码",
+"options":[{
+"category": four,
+"name":"opensles",
+"value":"0"
+},{
+"category": four,
+"name":"overlay-format",
+"value":"842225234"
+},{
+"category": four,
+"name":"framedrop",
+"value":"1"
+},{
+"category": four,
+"name":"soundtouch",
+"value":"1"
+},{
+"category": four,
+"name":"start-on-prepared",
+"value":"1"
+},{
+"category":1,
+"name":"http-detect-range-support",
+"value":"0"
+},{
+"category":1,
+"name":"fflags",
+"value":"fastseek"
+},{
+"category": two,
+"name":"skip_loop_filter",
+"value":"48"
+},{
+"category": four,
+"name":"reconnect",
+"value":"1"
+},{
+"category": four,
+"name":"enable-accurate-seek",
+"value":"0"
+},{
+"category": four,
+"name":"mediacodec",
+"value":"1"
+},{
+"category": four,
+"name":"mediacodec-auto-rotate",
+"value":"1"
+},{
+"category": four,
+"name":"mediacodec-handle-resolution-change",
+"value":"1"
+},{
+"category": four,
+"name":"mediacodec-hevc",
+"value":"1"
+},{
+"category":1,
+"name":"dns_cache_timeout",
+"value":"600000000"
+}]
+}],
 
 
 
